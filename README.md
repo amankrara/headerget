@@ -1,4 +1,4 @@
-headerget
+headerget - header get request php
 =========
 
 Get version headers from a list of websites. Boring headers are ignored, so only version headers (or unusual headers) are displayed.
